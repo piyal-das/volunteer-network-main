@@ -1,0 +1,12 @@
+.deleteIcon {
+    background-color:#eb2f06;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .3s;
+    height: 28px;
+}
+.deleteIcon:hover {
+    background-color: #ff0707;
+    height: 25px;
+}
